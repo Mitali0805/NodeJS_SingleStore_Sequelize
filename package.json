@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_singlestore_sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mitali",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
